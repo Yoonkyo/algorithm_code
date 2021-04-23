@@ -77,5 +77,5 @@ plt.title('CEP Sample (radius: 900m)', fontsize=12)
 # plt.legend(loc='best')
 plt.legend(loc='lower right')
 
-# plt.savefig("cep_sample.jpg", bbox_inches='tight')
+# plt.savefig("cep_sample.jpg")
 plt.show()
